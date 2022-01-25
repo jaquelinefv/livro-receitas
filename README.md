@@ -1,5 +1,6 @@
-#LIVRO DE RECEITAS
+# LIVRO DE RECEITAS 📖
 
-BEM VINDO AO LIVRO DE RECEITAS 
+BEM VINDO AO LIVRO DE RECEITAS:  
 
- - Escondidinho de carne 
+ - Escondidinho de carne; 
+ - Bolo de cenoura;
