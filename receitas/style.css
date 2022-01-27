@@ -1,0 +1,65 @@
+body{
+    background:#bbd9ed;
+    font-family: Verdana, Arial, monospace; 
+    max-width: 900px;
+    margin: auto;
+}
+
+
+#logo{
+    margin: auto;
+    height: auto;
+    width: 200px;
+    align-items: center;
+
+}
+
+#title, .subtitle, .post-title {
+    color: #02052b;
+}
+#title{
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.post-title{
+    margin-bottom: 16px;
+    font-size: 16px;
+}
+
+.post{
+    display: flexbox;
+    background: #f2f3f7;
+    padding: 15px;
+    border: #02052b 5px dotted;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+.container {
+    display: flexbox;
+    background: #f2f3f7;
+    padding: 15px;
+    border: #02052b 5px dotted;
+    margin-bottom: 15px;
+    border-radius: 5px;
+
+}
+.conteudo{
+    margin-top: 15px;
+    text-transform: capitalize;
+    border-radius: 90px;
+    box-shadow: #02052b 10px;
+}
+
+.img_receita{
+    margin: auto;
+    border-radius: 10px;
+}
+
+a{
+    color: #02052b;
+    text-decoration: none;
+}
+
+ul#contato{
+    list-style-type: none;
+}
